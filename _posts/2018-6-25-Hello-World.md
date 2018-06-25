@@ -15,7 +15,8 @@ doHelloWorld()
 
 **Hello World!**  
 
-Now bear with me, as we prepare to start sailing.  
+Now bear with me, as we prepare to start sailing.
+<img src="../images/avatar_full.png" width="600">  
 <br/>
 <br/>
 <br/>
