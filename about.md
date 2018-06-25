@@ -23,8 +23,9 @@ Then I learned about GitHub Pages and it had all I wanted:
 ### What's this blog about
 
 This blog is not about me in a strict sense, it will be about stuff that catches my eye, wether it is from a Computer Scientist point of view or not.
-Maybe there will be also something about stuff I'm doing or stuff that happens to me.
-
-
->*Entia non sunt multiplicanda praeter necessitatem.*
-> *~William of Ockham*
+Maybe there will be also something about stuff I'm doing or stuff that happens to me.  
+<br/>
+<br/>
+<br/>
+>*Entia non sunt multiplicanda praeter necessitatem.*  
+>                              *~William of Ockham*
