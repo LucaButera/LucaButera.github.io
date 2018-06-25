@@ -20,7 +20,7 @@ Then I learned about GitHub Pages and it had all I wanted:
 * it had unlimited and geeky customization capabilities with Jekyll
 * it was almost as easy to get started as Blogger or WordPress
 
-### What's this blog about
+### What is this blog about
 
 This blog is not about me in a strict sense, it will be about stuff that catches my eye, wether it is from a Computer Scientist point of view or not.
 Maybe there will be also something about stuff I'm doing or stuff that happens to me.  
@@ -28,4 +28,4 @@ Maybe there will be also something about stuff I'm doing or stuff that happens t
 <br/>
 <br/>
 >*Entia non sunt multiplicanda praeter necessitatem.*  
->                              *~William of Ockham*
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~William of Ockham*
